@@ -1,0 +1,6 @@
+{
+  "name": "Pulse-Twin Omni AI - Clinical Digital Twin & ICU Telemetry Cockpit",
+  "description": "Futuristic clinical digital twin and ICU telemetry cockpit featuring predictive sepsis risk scoring, real-time 3D cardiopulmonary embeds, and counterfactual treatment simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
