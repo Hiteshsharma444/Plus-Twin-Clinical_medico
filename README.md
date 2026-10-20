@@ -203,7 +203,7 @@ The frontend must point to the running backend. Repository-specific file paths, 
 ## 11. Demo Video
 
 - **Duration:** 15–20 minutes.
-- **Required visibility:** Unlisted on YouTube.
+- **Required visibility:** Unlisted on YouTube
 - **Video link:** [](https://www.youtube.com/watch?v=qon0Npceobc)
 
 
